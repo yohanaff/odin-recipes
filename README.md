@@ -20,3 +20,5 @@ The purpose of this project is to put into practice the HTML knowledge learned s
     * Absolute links
     * Relative links
 * Images
+
+Project source: https://www.theodinproject.com/lessons/foundations-recipes
