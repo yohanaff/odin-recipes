@@ -1,6 +1,6 @@
 # The Odin Project: Recipes
 
-This is the first project of The Odin Project.
+This is the first project of The Odin Project. [Click here](https://yohanaff.github.io/odin-recipes/index.html) to see the finished website.
 
 The purpose of this project is to put into practice the HTML knowledge learned so far. After completing this project, the following HTML concepts will be demonstrated:
 
